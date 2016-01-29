@@ -25,3 +25,10 @@ def power(num1,num2):
 def num_squared(num1):
 	squared = num1**2
 	return squared
+
+age = add_num(30, 4)
+height = subtract_num(78, 2)
+weight = multiply_num(6, 24)
+iq = divide_num(100, 2)
+
+print "Age: %d, Height: %d, Weight: %d, IQ: %i." %(age, height, weight, iq)

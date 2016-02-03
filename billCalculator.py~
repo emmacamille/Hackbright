@@ -36,4 +36,7 @@ if choice == "1":
 	bill_total()
 else:
 	bill_split()
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3b40934f08a4008045af94495f96c8d6a5f8e5cc

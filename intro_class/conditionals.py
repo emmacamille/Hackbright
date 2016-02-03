@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 age = 23
 if age >= 18:
 	print "Yay I can vote!"
@@ -25,3 +26,6 @@ if 8 % 2 and 9 %2:
 else:
 	print "Those numbers aren't even."
 
+=======
+name1 = raw_input()
+>>>>>>> db0bdc62687c0ac4228e0afb92684cdf50e46e35

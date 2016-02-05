@@ -7,7 +7,14 @@
 # Use the variable to calculate the tip.
 # (Part 2): Fix any bugs and make it work!
 
+<<<<<<< HEAD
 
+=======
+bill = float (raw_input ("How much was your bill?"))
+tip_percentage = float (raw_input ("What percentage would you like to tip?"))*.01
+
+tip = bill * tip_percentage
+>>>>>>> b8714cd50786ad7f049a80c463aa86b101435f7f
 
 
 def bill_total():

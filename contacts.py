@@ -8,4 +8,4 @@ class Contact(object):
 	def send_email(self, message):
 		print "To %s - %s" %(self.email_address, message)
 
-	
+	 

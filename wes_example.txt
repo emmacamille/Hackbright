@@ -1,0 +1,11 @@
+# outcomes
+[
+	{'outcome': 'eat out sushi',
+	 'response': 'Get off the couch and go get sushi!',
+	 'salty': 7,
+	 'sweet': 7,
+	 'chewy': 8,
+	 'eatout': 10,
+	 },
+
+]

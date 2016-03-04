@@ -1,0 +1,43 @@
+Here you can "roll the dice" for ideas on what your next meal should include. Currently, there are preprogrammed dice you can choose from: Sober, Drunk, Munchies, Sweet, Custom or take on a Mystery Box Challege.
+
+Once the category is selected, the computer "rolls the dice".
+ 
+#User flow: 
+
+Run the program.
+
+A menu will appear with the following options:
+	
+	Choose how sober you are:
+		- Straight Edge
+		- Druuuunk
+		- MUNCHIES!!!!
+		- Sweet
+		- Mystery Box Cooking Challenge
+
+Once the dice has been chosen:
+	
+	You selected (name of dice), are you ready to roll? 'Yes' or 'No'
+
+	If 'Yes':
+		print "Alright! Here goes! You should (cook/eat(depending on dice selection))..."
+
+	elif 'No':
+		print "Really? You're that indecisive? Fine!"
+
+If the Mystery Box Cooking Challenge is selected, the user will be offered 5 outcomes: meat, veggie, starch, fruit and spice. These outcomes will result in a "shopping list" and the challenge is to make a meal with these items as a base.
+
+# option
+
+First a message will print:
+	"So, you don't know what to eat? I have some ideas, but first, I need you to answer some quesitons. All questions will ask you for a number on a scale from 1 to 10, 1 being the least favorable and 10 being the most favorable. Are you ready? Yes or no?"
+
+Then, the user will be asked a series of questions:
+
+	- How sober are you on a scale of 1 to 10?
+
+	- Do you want to eat in or do you have nothing in the house?
+
+	- Do you want something meaty or are you a veg head?
+
+	- Are you in the mood for something sweet of savory?
